@@ -1,0 +1,26 @@
+[
+    {
+        "name": "XXX",
+        "age": 78,
+        "e-mail": "xxx@gmil.com",
+        "pin": 6969,
+        "accountNo": "4L9k5C*",
+        "balance": 600
+    },
+    {
+        "name": "Daku Badmos",
+        "age": 90,
+        "e-mail": "dakubadmos@badmosi.com",
+        "pin": 6969,
+        "accountNo": "dL6!NRX",
+        "balance": 0
+    },
+    {
+        "name": "lalu prasad ",
+        "age": 40,
+        "e-mail": "lalu@lal.com",
+        "pin": 1234,
+        "accountNo": "NaLOpwS",
+        "balance": 0
+    }
+]
